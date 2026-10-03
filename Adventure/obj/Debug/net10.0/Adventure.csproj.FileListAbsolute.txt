@@ -1,0 +1,14 @@
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.AssemblyInfoInputs.cache
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.AssemblyInfo.cs
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.csproj.CoreCompileInputs.cache
+G:\Codes\Adventure\Adventure\bin\Debug\net10.0\Adventure.exe
+G:\Codes\Adventure\Adventure\bin\Debug\net10.0\Adventure.deps.json
+G:\Codes\Adventure\Adventure\bin\Debug\net10.0\Adventure.runtimeconfig.json
+G:\Codes\Adventure\Adventure\bin\Debug\net10.0\Adventure.dll
+G:\Codes\Adventure\Adventure\bin\Debug\net10.0\Adventure.pdb
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.dll
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\refint\Adventure.dll
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.pdb
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\Adventure.genruntimeconfig.cache
+G:\Codes\Adventure\Adventure\obj\Debug\net10.0\ref\Adventure.dll
